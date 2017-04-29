@@ -1,3 +1,3 @@
 So this a a README.
 
-What is a Markdown tag?
+What is a **Markdown** tag?
